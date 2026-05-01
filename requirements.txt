@@ -1,0 +1,1 @@
+echo -e "streamlit\npandas" > requirements.txt
